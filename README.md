@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi! I’m Ahmad Jawad, a 3rd-semester BS Artificial Intelligence student with a passion for technology, problem-solving, and continuous learning. I mainly code in C++ and Python, and I also have experience working with MySQL for database-driven applications.<br><br>I enjoy building projects that are both practical and creative. For example, I developed isbhostels.site, a platform that helps students and newcomers easily find hostels in Islamabad. I also created a Formula 1 mini project using NumPy that analyzes lap times and generates performance statistics. Earlier, I worked on a school management system using C# and MySQL, which gave me experience collaborating with others on real-world projects.<br><br>When it comes to learning, I thrive through experimenting and watching tutorials—breaking problems down, testing different approaches, and steadily improving my skills. Along the way, I’ve picked up realistic and valuable soft skills like problem-solving, adaptability, curiosity, and teamwork, which I try to bring into every project I work on.<br><br>Outside of coding, I’m passionate about aviation and music, both of which inspire my creativity and curiosity. Whether it’s researching aircraft technology or listening to new sounds, these interests fuel my imagination and give me fresh perspectives.<br><br>Currently, I’m focused on strengthening my foundations in AI and data-driven applications, while exploring opportunities to contribute to meaningful projects and continue growing as a developer.
 
-<!--
-**ahmadjawad0905/ahmadjawad0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-jawad05) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CoastCurrent2301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadjawad0905@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmadjawad0905&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmadjawad0905&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjawad0905&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahmadjawad0905&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
